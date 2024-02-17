@@ -2,11 +2,13 @@ EN
 - 👋 Hello, my name is Roman
 - 👀 My hobbies are: Arch linux, software development, development team management technologies.
 - 📫 You can contact me via devpilgrim@gmail.com. In the subject field, be sure to specify: "Git Message:..."
+- Phone number: +7(999)6093851
 
 RU
 - 👋 Привет, меня зовут Роман
 - 👀 Мои интересы: Arch linux, разработка ПО, Разработка технологий управления проектами и командами.
 - 📫 Со мной можно связаться через: devpilgrim@gmail.com. Если пишите мне, просьба в качестве темы указать: "Git Message:..."
+- Телефон: +7(999)6093851
 
 
 <!---
